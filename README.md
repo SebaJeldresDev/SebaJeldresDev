@@ -16,7 +16,7 @@ Durante mi práctica profesional, he trabajado con las siguientes tecnologías y
 ## ⚙️ Tecnologías y habilidades
 
 ### Lenguajes de programación:
-- **PHP** (avanzado)
+- **PHP** (básico)
 - **Python** (básico)
 - **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Java** (básico)
 
