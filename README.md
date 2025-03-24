@@ -15,19 +15,23 @@ Durante mi práctica profesional, he trabajado con las siguientes tecnologías y
 
 ## ⚙️ Tecnologías y habilidades
 
-### Lenguajes de programación:
-- **PHP** (básico)
-- **Python** (básico)
-- **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Java** (básico)
+### Lenguajes de programación (Básico): 
+- **PHP** 
+- **Python**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **TypeScript**
+- **Java** 
 
-### Frameworks:
+### Frameworks (Intermedio):
 - **Django**
 - **React.js**
 - **Node.js**
 - **Ionic**
 - **Laravel 11**
 
-### Bases de datos:
+### Bases de datos (Intermedio):
 - **PL/SQL**
 - **MySQL**
 - **Supabase**
